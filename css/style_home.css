@@ -213,11 +213,17 @@ span .fa-chevron-right{
     text-align: center;
 }
 
+#subtitle .subtitle .subtitle-inner h3{
+    color: blue;
+}
+
 #subtitle .subtitle .subtitle-inner1{
     height: 100%;
     width: 60%;
     justify-content: center;
     text-align: center;
+    color: gray;
+    font-style: italic;
 }
 
 h6{
